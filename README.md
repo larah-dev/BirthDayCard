@@ -1,10 +1,13 @@
-# Bila - Cartão de Aniversário
+# Bila — Cartão de Aniversário
+
+![HTML5](https://img.shields.io/badge/HTML5-CSS3-E34F26?logo=html5&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-bundler-646CFF?logo=vite&logoColor=white) ![Licença](https://img.shields.io/badge/licença-MIT-green)
 
 Cartão de aniversário interativo para a Bila (Beyonce, o poodle branco), com GIFs, vídeos e animações.
 
 ## Sobre
 
 Página web comemorativa com:
+
 - Fotos e vídeos da Bila
 - GIFs animados temáticos
 - Efeito de hover para revelar presentes
@@ -21,5 +24,9 @@ Página web comemorativa com:
 git clone https://github.com/ooshimakenji/Bila.git
 cd Bila
 npm install
-npm start
+npm run dev
 ```
+
+## Licença
+
+MIT
