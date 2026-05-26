@@ -2,7 +2,7 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-CSS3-E34F26?logo=html5&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-bundler-646CFF?logo=vite&logoColor=white) ![Licença](https://img.shields.io/badge/licença-MIT-green)
 
-Cartão de aniversário interativo para a Bila (Beyoncé, o poodle branco), com GIFs, vídeos e animações.
+Cartão de aniversário interativo para a Bila (Beyoncé, a poodle branca), com GIFs, vídeos e animações.
 
 ## Sobre
 
@@ -10,8 +10,8 @@ Página web comemorativa com:
 
 - Fotos e vídeos da Bila
 - GIFs animados temáticos
-- Efeito de hover para revelar presentes
-- Design divertido com a fonte Happy Monkey
+- Efeito de hover que revela surpresas ao passar o mouse
+- Design colorido e divertido com a fonte Happy Monkey
 
 ## Stack
 
